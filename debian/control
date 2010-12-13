@@ -50,3 +50,11 @@ Description: library for accessing Kinect USB camera -- meta package
  USB camera.
  .
  This is the meta package to install all components of the project.
+
+Package: libfreenect
+Section: libs
+Architecture: any
+Depends: ${misc:Depends}, libfreenect0.0
+Description: Transition package for libfreenect
+ .
+ This is the meta package only used for transition
