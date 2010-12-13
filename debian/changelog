@@ -1,4 +1,4 @@
-libfreenect (1:0.0.1+20101211-0ubuntu2~lucid) lucid; urgency=low
+libfreenect (1:0.0.1+20101211-2ubuntu1~lucid) lucid; urgency=low
 
   * add transition package for old ubuntu ppa
 
