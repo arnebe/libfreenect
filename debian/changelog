@@ -1,3 +1,9 @@
+libfreenect (1:0.0.1+20101211-2ubuntu1~maverick) maverick; urgency=low
+
+  * maverick package
+
+ -- Arne Bernin <arne@alamut.de>  Mon, 13 Dec 2010 03:25:11 +0100
+
 libfreenect (1:0.0.1+20101211-2ubuntu1~lucid) lucid; urgency=low
 
   * add transition package for old ubuntu ppa
